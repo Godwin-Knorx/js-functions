@@ -1,6 +1,6 @@
 # JS-Functions
 
-![License](https://img.shields.io/github/license/your-username/js-functions)
+![License](https://img.shields.io/github/license/Godwin-Knorx/js-functions)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
 
 ## Table of Contents
@@ -11,7 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 - [Contact](#contact)
 
@@ -106,3 +106,7 @@ git push origin feature/add-new-function
 
 This project is licensed under the MIT License. For full details, please refer to [LICENSE](LICENSE.txt).
 
+## Contact
+
+- GitHub: Godwin-Knorx
+- Email: godwinkiplimochelanga@gmail.com
